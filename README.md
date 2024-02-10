@@ -17,5 +17,5 @@ python ride_sharing_analysis.ipynb
 
 3. View the generated visualizations and insights in the output folder.
 
-##vContributing
+## Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
