@@ -9,10 +9,12 @@ Visualization of key insights and findings.
 Recommendations for improving efficiency and optimizing ride-hailing services.
 
 ## Usage
-1. Clone the repository to your local machine.
-git clone https://github.com/yourusername/ride-analysis-project.git
+1. Clone the repository to your local machine:
+   
+git clone https://github.com/melvin-ngure/Ride_Hailing_Data_Analysis.git
 
-2. Open and run the ride_sharing_analysis.py script to perform the analysis.
+2. Open and run the ride_sharing_analysis.py script to perform the analysis:
+
 python ride_sharing_analysis.ipynb
 
 3. View the generated visualizations and insights in the output folder.
